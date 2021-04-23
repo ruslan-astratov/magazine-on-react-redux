@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magazine-on-react-redux/static/css/main.a3c3a780.chunk.css",
+    "main.js": "/magazine-on-react-redux/static/js/main.d5576182.chunk.js",
+    "main.js.map": "/magazine-on-react-redux/static/js/main.d5576182.chunk.js.map",
+    "runtime-main.js": "/magazine-on-react-redux/static/js/runtime-main.d9869128.js",
+    "runtime-main.js.map": "/magazine-on-react-redux/static/js/runtime-main.d9869128.js.map",
+    "static/js/2.7ef3734b.chunk.js": "/magazine-on-react-redux/static/js/2.7ef3734b.chunk.js",
+    "static/js/2.7ef3734b.chunk.js.map": "/magazine-on-react-redux/static/js/2.7ef3734b.chunk.js.map",
+    "index.html": "/magazine-on-react-redux/index.html",
+    "precache-manifest.423c0227b2ee05919d54c414e7a34ea9.js": "/magazine-on-react-redux/precache-manifest.423c0227b2ee05919d54c414e7a34ea9.js",
+    "service-worker.js": "/magazine-on-react-redux/service-worker.js",
+    "static/css/main.a3c3a780.chunk.css.map": "/magazine-on-react-redux/static/css/main.a3c3a780.chunk.css.map",
+    "static/js/2.7ef3734b.chunk.js.LICENSE.txt": "/magazine-on-react-redux/static/js/2.7ef3734b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9869128.js",
+    "static/js/2.7ef3734b.chunk.js",
+    "static/css/main.a3c3a780.chunk.css",
+    "static/js/main.d5576182.chunk.js"
+  ]
+}
