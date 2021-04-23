@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54805aecde11ba34d802ef41929bc0ee",
+    "revision": "70f9cfa60d04826b81f0d38119160be7",
     "url": "/magazine-on-react-redux/index.html"
   },
   {
-    "revision": "b236f2e06f0d693266fb",
-    "url": "/magazine-on-react-redux/static/css/main.4eddbd39.chunk.css"
+    "revision": "310f4395fc1df5dccd63",
+    "url": "/magazine-on-react-redux/static/css/main.fbed5e7d.chunk.css"
   },
   {
     "revision": "12cb901f9703cabbfa75",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazine-on-react-redux/static/js/2.406da245.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b236f2e06f0d693266fb",
-    "url": "/magazine-on-react-redux/static/js/main.896c4d18.chunk.js"
+    "revision": "310f4395fc1df5dccd63",
+    "url": "/magazine-on-react-redux/static/js/main.a3ce6acf.chunk.js"
   },
   {
     "revision": "1ac0b7c0a1aef9d01074",
